@@ -1,0 +1,99 @@
+Hey bro, I am a software engineer-in-training help me build a professional landing page of an online takeaway Nigerian cooked meal restaurant using Html and Tailwind CSS
+
+
+
+
+
+
+
+-Let the name of the business to be MaMaPutOnline
+
+
+
+MaMaPutOnline  sells different types of cooked soups- egusi soup, ewedo  soup, ora  soup,  edikaikong  soup, okazi  soup and okro  soup  and also sellls Jollof rice, fried rice, Porridge yami ,Porridge beans, fried plantain, abacha, nkwobi,fried chicken and kpomo .
+
+
+
+
+
+
+
+Create a product card with each of the food with price, quantities and discount   (Price should be in naira).
+
+
+
+
+
+
+
+*****
+
+
+
+Menu Section
+
+
+
+let the landing page have a
+
+
+
+-MaMaPutOnline logo on the top left hand 
+-Make the logo to be nice and creative
+-Menu bar should be dark blue with sub titles like products, services, customers service , contact us
+-Add a matching-fitting colour 
+-A search window on the very top right hand corner
+
+
+
+**
+
+Hero section
+
+Below the menu bar  section, let there be a hero section with Call-To-Action button 
+
+
+
+-The hero section should occupy at least 30% of the vertical length of the page and 100% of the breathe of the page.
+
+-The hero section should be vertically partitioned into two
+
+-One side of the hero section should display the picture of a steaming, deliciously-cooked Nigerian dish/soup(with the right aspect ratio and with the right pixelization.
+
+-The other side of the hero section should be boldly-written words in large print, lettering inviting people to not miss the opportunity to buy from your online store
+-Make the text and spaces align and neat
+-- Add subtle hover
+
+
+**
+
+Main section 
+
+-Have a side panel on the left of the main section with items listed there and connecting users to the main section/ product cards
+
+-Have at least three rows on the landing page ....on the right side of the side panel... With each row have at least 4 product cards 
+
+-The product cards should Identify the product boldly, the quantity band the price in Naira
+-Make the section neat and clean
+--Make it respnsive
+
+
+**
+
+Let the landing page also have a footer that has all the social media links
+
+
+
+Ensure that the menu and footer are sticky
+
+
+
+-And make it responsive to Laptop, mobile and tablet.
+-Use only Html and tailwind css
+
+please be creative  and think well 
+I  know u can do this
+
+
+
+Thank you.
